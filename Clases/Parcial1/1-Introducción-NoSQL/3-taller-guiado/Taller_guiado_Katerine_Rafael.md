@@ -24,7 +24,9 @@ Solo se necesita escribirlo a todos lo más rápido posible en un cuaderno infin
 Una empresa de análisis recopila millones de registros diarios de sensores industriales y su volumen va en aumento.
 Los analistas consultan resúmenes por día, planta y tipo de sensor para generar informes históricos.
 
+**Solución: NoSQL (No Relacional)**
 
+Un artículo tiene fotos, otro tiene video, otro solo texto. Tendriamos muchas casillas vacías en los artículos que no tienen video. NoSQL te permite guardar cada artículo.
 
 ### Ejercicio 4
 
