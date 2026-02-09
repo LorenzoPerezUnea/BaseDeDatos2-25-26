@@ -15,10 +15,16 @@ No puede existir una nota sin un alumno, ni un alumno matriculado en una carrera
 Una aplicación móvil debe almacenar preferencias de usuario, tokens de sesión y configuraciones temporales.
 El acceso debe ser inmediato y los datos pueden eliminarse automáticamente tras un tiempo de inactividad.
 
+**Solución: NoSQL (No Relacional)**
+
+Solo se necesita escribirlo a todos lo más rápido posible en un cuaderno infinito.
+
 ### Ejercicio 3
 
 Una empresa de análisis recopila millones de registros diarios de sensores industriales y su volumen va en aumento.
 Los analistas consultan resúmenes por día, planta y tipo de sensor para generar informes históricos.
+
+
 
 ### Ejercicio 4
 
