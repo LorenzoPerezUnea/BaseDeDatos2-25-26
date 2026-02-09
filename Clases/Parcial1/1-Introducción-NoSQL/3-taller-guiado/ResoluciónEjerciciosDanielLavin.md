@@ -1,8 +1,8 @@
-Ejercicio 1: SQL
-Ejercicio 2: Clave-Valor
-Ejercicio 3: Columnar
-Ejercicio 4: Documental 
-Ejercicio 5: SQL
-Ejercicio 6: Grafos
-Ejercicio 7: Vectoriial
-Ejercicio 8: SQL
+- Ejercicio 1: SQL El modelo de datos es estable y estructurado
+- Ejercicio 2: Clave-Valor Los datos son temporales y pueden expirar
+- Ejercicio 3: Columnar Consultas orientadas a resúmenes y estadísticas
+- Ejercicio 4: Documental Estructura variable entre entidades
+- Ejercicio 5: SQL Modelo relacional claro entre cuentas y movimientos
+- Ejercicio 6: Grafos Consultas basadas en recorridos y caminos
+- Ejercicio 7: Vectoriial Búsqueda basada en similitud semántica
+- Ejercicio 8: SQL Modelo de datos simple y bien definido
