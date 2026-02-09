@@ -6,6 +6,10 @@
 Una universidad necesita gestionar matrículas, asignaturas, profesores y actas de notas.
 Se requiere asegurar consistencia fuerte en las calificaciones y transacciones seguras durante los periodos de matrícula.
 
+**Solución: SQL (Relacional)**
+
+No puede existir una nota sin un alumno, ni un alumno matriculado en una carrera que no existe.
+
 ### Ejercicio 2
 
 Una aplicación móvil debe almacenar preferencias de usuario, tokens de sesión y configuraciones temporales.
