@@ -10,8 +10,8 @@
     - [x] [Práctica con GitHub (evaluación contínua)](Parcial1/1-Introducción-NoSQL/4-practica)
   - [ ] BD Documentales (MongoDB)
     
-    - [ ] Teoría básica
-    - [ ] Práctica Básica: herramientas
+    - [x] [Teoría básica](Parcial1/2-MONGODB/1-teoria)
+    - [x] [Práctica Básica: Diseño de esquemas](Parcial1/2-MONGODB/2-diseno-esquemas)
     - [ ] Práctica Intermedia: CRUD
     - [ ] Práctica Intermedia: Operadores
     - [ ] Práctica Avanzada
