@@ -2,7 +2,7 @@
 
 * Indexar campos usados en:
   * filtros frecuentes
-  * joins (lookup)
+  * joins (lookup) - Se explicará posteriormente
   * ordenamientos
 * Analizar siempre con explain()
 * Medir antes y después

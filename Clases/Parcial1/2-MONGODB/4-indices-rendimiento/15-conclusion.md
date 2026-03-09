@@ -30,3 +30,11 @@ Pero:
 
 En sistemas reales, el diseño de índices es una disciplina propia dentro de la arquitectura de datos.
 
+```mermaid
+flowchart TD
+    A[Consulta] --> B{¿Hay índice adecuado?}
+    B -- No --> C[COLLSCAN]
+    B -- Sí --> D[IXSCAN]
+    D --> E[Menos documentos examinados]
+```
+
