@@ -5,8 +5,8 @@ La herramienta mongorestore permite reconstruir una base de datos a partir de lo
 Ejemplo básico:
 
 ```BASH
-mongorestore \
---uri="mongodb://admin:admin123@localhost:27018" \
+mongorestore \ --drop
+--uri="mongodb://admin:admin123@localhost:27017" \
 backup_universidad
 ```
 

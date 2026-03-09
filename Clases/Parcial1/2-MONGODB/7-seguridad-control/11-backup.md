@@ -8,6 +8,10 @@ Un comando típico de respaldo es el siguiente:
 mongodump --uri="mongodb://admin:admin123@localhost:27018" --out=backup_universidad
 ```
 
+```BASH
+mongodump  --out=backup_universidad
+```
+
 Este comando realiza las siguientes acciones:
 
 * se conecta al servidor MongoDB
