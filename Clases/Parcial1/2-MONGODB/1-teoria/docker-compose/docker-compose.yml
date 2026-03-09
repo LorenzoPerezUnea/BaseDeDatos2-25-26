@@ -25,6 +25,12 @@ services:
       ME_CONFIG_BASICAUTH: "false"
     depends_on:
       - mongodb_docencia
+  mongosh:
+    image: mongo:7
+    container_name: mongosh_docencia
+    depends_on:
+      - mongodb_docencia
+    entrypoint: ["sleep", "infinity"]    
 
 volumes:
   mongo_data:
