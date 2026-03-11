@@ -1,0 +1,20 @@
+# Contenido
+
+1. [Introducción.](1-introduccion.md)
+2. [Modelo de autenticación y autorización en MongoDB.](2-modelado-autenticacion.md)
+3. [Creación de usuarios en MongoDB.](3-creacion-usuarios.md)
+4. [Roles predefinidos en MongoDB.](4-roles-predefinidos.md)
+5. [Principio de mínimo privilegio.](5-minimo-privilegio.md)
+6. [Validación de esquema con JSON Schema.](6-validacion-control.md)
+7. [Modos de validación: strict y moderate.](7-strict-moderate.md)
+8. [Evolución controlada del esquema.](8-evolucion-ezquema.md)
+9. [Errores comunes en seguridad y validación.](9-errores-comunes.md)
+10. [Concepto de respaldo en bases de datos.](10-respaldo.md)
+11. [Errores comunes en seguridad y validación.](11-backup.md)
+12. [Restauración de datos con mongorestore.](12-restore.md)
+13. [Estrategias de respaldo en entornos reales.](13-estrategias-respaldo.md)
+14. [Observabilidad básica en MongoDB.](14-observabilidad.md)
+15. [Auditoría de operaciones.](15-auditorias.md)
+16. [Buenas prácticas operativas.](16-buenas-practicas.md)
+17. [Conclusión.](17-conclusiones.md)
+
