@@ -1,0 +1,7 @@
+{
+    "nombre": "Inteligencia Artificial",
+    "profesor": "Dra. García",
+    "creditos": 3,
+    "estudiantes": ["Ana", "Pedro", "Lucía"],
+    "activo": true
+}

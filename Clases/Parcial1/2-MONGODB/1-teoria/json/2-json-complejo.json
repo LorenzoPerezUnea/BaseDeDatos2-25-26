@@ -1,0 +1,22 @@
+{
+    "nombre": "Carlos",
+    "edad": 40,
+    "direccion": {
+        "ciudad": "Bogota",
+        "pais": "Colombia"
+    },
+    "telefonos": [
+        "123456",
+        "789012"
+    ],
+    "historial_compras": [
+        {
+            "producto": "Libro",
+            "precio": 20
+        },
+        {
+            "producto": "Teclado",
+            "precio": 50
+        }
+    ]
+}
