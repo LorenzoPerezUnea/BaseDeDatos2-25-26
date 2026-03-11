@@ -1,0 +1,8 @@
+{
+    "nombre": "Bases de Datos",
+    "profesor": "Dra. López",
+    "creditos": 4,
+    "estudiantes": ["Ana", "Carlos", "Lucía"],
+    "activo": false
+}
+  

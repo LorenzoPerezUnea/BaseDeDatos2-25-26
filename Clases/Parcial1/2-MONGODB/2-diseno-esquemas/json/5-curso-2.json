@@ -1,0 +1,7 @@
+{
+    "nombre": "Programación Web",
+    "profesor": "Dr. Gómez",
+    "creditos": 2,
+    "estudiantes": ["Juan", "Carlos", "Pedro"],
+    "activo": true
+}
