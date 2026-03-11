@@ -1,0 +1,17 @@
+{
+  "pedido_id": 1001,
+  "cliente": {
+    "nombre": "Laura",
+    "email": "laura@email.com"
+  },
+  "productos": [
+    {
+      "nombre": "Libro",
+      "precio": 20
+    },
+    {
+      "nombre": "Teclado",
+      "precio": 50
+    }
+  ]
+}

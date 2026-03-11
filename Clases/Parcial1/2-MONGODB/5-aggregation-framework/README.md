@@ -1,0 +1,20 @@
+# Contenido
+
+1. [Introducción ¿Por qué necesitamos Aggregation Framework?.](1-introduccion.md)
+2. [Modelo mental del Aggregation Framework.](2-modelado-mental.md)
+3. [Sintaxis básica y estructura general.](3-sintaxys-estructura.md)
+4. [Dataset de trabajo y preparación mental.](4-dataset-preparacion.md)
+5. [$match — Filtrado dentro del pipeline.](5-match.md)
+6. [$group — El núcleo analítico.](6-group.md)
+7. [$project — Transformación estructural.](7-project.md)
+8. [$sort — Ordenamiento dentro del pipeline.](8-sort.md)
+9. [$limit — Controlando volumen y propósito analítico.](9-limit.md)
+10. [$unwind — Desnormalizando arrays para análisis.](10-unwind.md)
+11. [$lookup — Join en MongoDB.](11-lookup.md)
+12. [explain() en Aggregation.](12-explain-aggregation.md)
+13. [Orden óptimo del pipeline.](13-orden-optimo.md)
+14. [Consideraciones de memoria y allowDiskUse.](14-memoria-allowdiskuse.md)
+15. [Buenas prácticas profesionales.](15-buenas-practicas.md)
+16. [Ejercicios.](16-ejercicios.md)
+17. [Conclusiones.](17-conclusiones.md)
+
