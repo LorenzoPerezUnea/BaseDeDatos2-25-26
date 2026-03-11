@@ -1,0 +1,5 @@
+{
+    "pedido_id": 1001,
+    "cliente_id": "c123",
+    "productos_ids": ["p1", "p2"]
+}

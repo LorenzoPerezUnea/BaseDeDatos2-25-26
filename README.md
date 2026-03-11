@@ -5,12 +5,24 @@ Repo de materiales y proyectos de la asignatura **Base de Datos II** del [Grado 
 ## Curso *[2025][2026]*
 
 - [Temario](Clases/README.md)
+  
   - [A día de hoy, deberíamos saber...](aDiaDeHoy.md)
 - Evaluaciones
+  
   - Exámenes
+    
     - Primer Parcial:
     - Segundo Parcial:
     - Final:
+
+## Grupos
+
+[Lista de alunos, numero, grupo y github](https://docs.google.com/spreadsheets/d/1OoXoGM5NTV-6xxc1YZ7cEYK6VggPO57ffA2chnyEdbo/edit?gid=0#gid=0)
+
+## Asistencias
+
+* Clonar el repo [**[Asistencias-BaseDatosII-2025-2026](https://github.com/GradoIngenieriaInformatica/Asistencias-BaseDatosII-2025-2026)**].
+* En cada clase hacer un commit y un push dentro del horario de la clase.
 
 ## Herramientas et al
 
