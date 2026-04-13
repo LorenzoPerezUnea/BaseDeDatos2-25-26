@@ -55,17 +55,3 @@ find({ a: 1 }).sort({ b: 1 })
 
 Orden importa.
 
-### Experimento de clase sugerido
-
-1. Insertar 1000 documentos simulados.
-2. Ejecutar consulta sin índice.
-3. Medir totalDocsExamined.
-4. Crear índice.
-5. Comparar resultados.
-
-Discusión guiada:
-
-* ¿Qué cambió?
-* ¿Qué no cambió?
-* ¿Cuándo conviene indexar?
-
