@@ -33,7 +33,7 @@ Pista:
 ```cypher
 MATCH (a:Persona)-[:AMIGO_DE]->(b:Persona)
 MATCH (b)-[:VIVE_EN]->(c:Ciudad)
-RETURN count(DISTINCT c)a)
+RETURN count(DISTINCT c)
 ```
 
 Ejecuta y piensa si responde exactamente a la pregunta.

@@ -21,23 +21,22 @@
   - [x] Revisión del Examen del Primer Parcial
 - [ ] Segundo Parcial
   
-  - [ ] BD de Grafos (Neo4j)
+  - [x] BD de Grafos (Neo4j)
     
     - [x] [Introducción y entorno](Parcial2/3-Neo4J/1-teoria)
     - [x] [Cypher básico y creación de datos](Parcial2/3-Neo4J/2-cypher-basico)
-    - [x] [Relaciones y patrones](Parcial2/3-Neo4J/3-relaciones-patrones)
-    - [x] [Modelado de grafos](Parcial2/3-Neo4J/4-modelado)
-    - [ ] [Consultas intermedias](Parcial2/3-Neo4J/5-consultas-intermedias)
-    - [ ] [Paths y recorridos](Parcial2/3-Neo4J/6-paths)
-    - [ ] [Casos reales](Parcial2/3-Neo4J/7-casos-reales)
-    - [ ] [Taller (evaluación continua)](Parcial2/3-Neo4J/8-taller)
+    - [x] [Cypher Intermedio](Parcial2/3-Neo4J/3-cypher-intermedio)
+    - [x] [Relaciones y patrones](Parcial2/3-Neo4J/4-relaciones-patrones)
+    - [x] [Modelado de grafos](Parcial2/3-Neo4J/5-modelado)
+    - [x] [Paths y recorridos](Parcial2/3-Neo4J/6-paths)
+    - [x] [Análisis de grafos y lectura de paths](Parcial2/3-Neo4J/7-casos-reales)
+    - [x] [Casos reales y Taller (evaluación continua)](Parcial2/3-Neo4J/8-taller)
   - [ ] BD Vectoriales
     
-    - [ ] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
-    - [ ] [Práctica guiada: búsqueda semántica funcional](Parcial2/4-Vectoriales/2-practica-guiada)
-    - [ ] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/3-embeddings)
-    - [ ] [Práctica: generación y uso de embeddings](Parcial2/4-Vectoriales/4-practica-embeddings)
-    - [ ] [Vector DB básica: uso local con Docker](Parcial2/4-Vectoriales/5-vector-db)
+    - [x] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
+    - [x] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/2-embeddings)
+    - [ ] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
+    - [ ] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
     - [ ] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/6-taller)
   - [ ] Examen del Segundo Parcial
   - [ ] Revisión del Examen del Segundo Parcial
