@@ -1,0 +1,20 @@
+# Contenido
+
+1. [Qué significaban realmente los ejercicios de la clase anterior.](1-contextualizacion.md)
+2. [Cómo se ve esto en sistemas reales.](2-sistemas-reales.md)
+3. [Búsqueda lineal como baseline real.](3-busqueda-lineal.md)
+4. [Ejecución de una búsqueda simple.](4-analisis-busqueda.md)
+5. [Aumento progresivo del tamaño de la base.](5-tamano-base.md)
+6. [Observación del coste computacional.](6-coste.md)
+7. [Hacia estructuras de búsqueda vectorial.](7-busqueda-estructurada.md)
+8. [Índices vectoriales.](8-indices-vectoriales.md)
+9. [Tipos de estructuras internas.](9-tipos-estructura.md)
+10. [Transición hacia FAISS.](10-transicion-faiss.md)
+11. [Nueva estrategia de búsqueda.](11-nueva-estrategia.md)
+12. [Impacto en rendimiento.](12-impacto-rendimiento.md)
+13. [Índices reales.](13-indices-reales.md)
+14. [Inserción y búsqueda directa con FAISS.](14-faiss.md)
+15. [Inserción incremental (dinámica).](15-insercion-incremental.md)
+16. [Embeddings reales con Transformer.](16-embeddings-reales.md)
+17. [Cambio clave en el comportamiento del sistema.](17-cambio-comportamiento.md)
+
