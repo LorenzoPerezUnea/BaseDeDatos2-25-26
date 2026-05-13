@@ -1,7 +1,5 @@
-# Clases
-
 - [x] **[Introducción](introduccion.md)**
-- [ ] Primer Parcial
+- [x] Primer Parcial
   
   - [x] Introducción a NoSQL
     
@@ -19,28 +17,27 @@
     - [x] [Práctica Avanzada: Modelado Avanzado y Patrones de Diseño](Parcial1/2-MONGODB/6-modelado-avanzado)
     - [x] [Teoría: Seguridad, Validación y Control de Acceso en MongoDB](Parcial1/2-MONGODB/7-seguridad-control)
     - [x] [Taller: Casos Reales (evaluación contínua)](Parcial1/2-MONGODB/8-taller-casos-reales)
-  - [ ] Examen del Primer Parcial
-  - [ ] Revisión del Examen del Primer Parcial
+  - [x] [Examen del Primer Parcial](../../evaluaciones/examenes/examenParcial1)
+  - [x] Revisión del Examen del Primer Parcial
 - [ ] Segundo Parcial
   
-  - [ ] BD de Grafos (Neo4j)
+  - [x] BD de Grafos (Neo4j)
     
-    - [ ] Teoría básica
-    - [ ] Práctica Básica: herramientas
-    - [ ] Práctica Intermedia: Cypher
-    - [ ] Práctica Intermedia: Relaciones y consultas
-    - [ ] Práctica Intermedia: Modelado de grafos
-    - [ ] Práctica Intermedia: Casos Reales
-    - [ ] Práctica Intermedia: Paths
-    - [ ] Taller:  (evaluación contínua)
-  - [ ] BD Vectoriales
+    - [x] [Introducción y entorno](Parcial2/3-Neo4J/1-teoria)
+    - [x] [Cypher básico y creación de datos](Parcial2/3-Neo4J/2-cypher-basico)
+    - [x] [Cypher Intermedio](Parcial2/3-Neo4J/3-cypher-intermedio)
+    - [x] [Relaciones y patrones](Parcial2/3-Neo4J/4-relaciones-patrones)
+    - [x] [Modelado de grafos](Parcial2/3-Neo4J/5-modelado)
+    - [x] [Paths y recorridos](Parcial2/3-Neo4J/6-paths)
+    - [x] [Análisis de grafos y lectura de paths](Parcial2/3-Neo4J/7-casos-reales)
+    - [x] [Casos reales y Taller (evaluación continua)](Parcial2/3-Neo4J/8-taller)
+  - [x] BD Vectoriales
     
-    - [ ] Teoría básica
-    - [ ] Práctica Básica: embeddings
-    - [ ] Práctica Intermedia: Uso local
-    - [ ] Práctica Intermedia: Búsqueda semántica
-    - [ ] Práctica Intermedia: Integración
-    - [ ] Taller:  (evaluación contínua)
+    - [x] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
+    - [x] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/2-embeddings)
+    - [x] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
+    - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
+    - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
   - [ ] Examen del Segundo Parcial
   - [ ] Revisión del Examen del Segundo Parcial
 - [ ] Examen Final
