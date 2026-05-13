@@ -31,14 +31,13 @@
     - [x] [Paths y recorridos](Parcial2/3-Neo4J/6-paths)
     - [x] [Análisis de grafos y lectura de paths](Parcial2/3-Neo4J/7-casos-reales)
     - [x] [Casos reales y Taller (evaluación continua)](Parcial2/3-Neo4J/8-taller)
-  - [ ] BD Vectoriales
+  - [x] BD Vectoriales
     
-    - [ ] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
-    - [ ] [Práctica guiada: búsqueda semántica funcional](Parcial2/4-Vectoriales/2-practica-guiada)
-    - [ ] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/3-embeddings)
-    - [ ] [Práctica: generación y uso de embeddings](Parcial2/4-Vectoriales/4-practica-embeddings)
-    - [ ] [Vector DB básica: uso local con Docker](Parcial2/4-Vectoriales/5-vector-db)
-    - [ ] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/6-taller)
+    - [x] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
+    - [x] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/2-embeddings)
+    - [x] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
+    - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
+    - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
   - [ ] Examen del Segundo Parcial
   - [ ] Revisión del Examen del Segundo Parcial
 - [ ] Examen Final
