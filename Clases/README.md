@@ -17,9 +17,9 @@
     - [x] [Práctica Avanzada: Modelado Avanzado y Patrones de Diseño](Parcial1/2-MONGODB/6-modelado-avanzado)
     - [x] [Teoría: Seguridad, Validación y Control de Acceso en MongoDB](Parcial1/2-MONGODB/7-seguridad-control)
     - [x] [Taller: Casos Reales (evaluación contínua)](Parcial1/2-MONGODB/8-taller-casos-reales)
-  - [x] [Examen del Primer Parcial](../../evaluaciones/examenes/examenParcial1)
+  - [x] [Examen del Primer Parcial](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenParcial1/README.md)
   - [x] Revisión del Examen del Primer Parcial
-- [ ] Segundo Parcial
+- [x] Segundo Parcial
   
   - [x] BD de Grafos (Neo4j)
     
@@ -31,16 +31,16 @@
     - [x] [Paths y recorridos](Parcial2/3-Neo4J/6-paths)
     - [x] [Análisis de grafos y lectura de paths](Parcial2/3-Neo4J/7-casos-reales)
     - [x] [Casos reales y Taller (evaluación continua)](Parcial2/3-Neo4J/8-taller)
-  - [ ] BD Vectoriales
+  - [x] BD Vectoriales
     
     - [x] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
     - [x] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/2-embeddings)
-    - [ ] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
-    - [ ] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
-    - [ ] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/6-taller)
-  - [ ] Examen del Segundo Parcial
-  - [ ] Revisión del Examen del Segundo Parcial
-- [ ] Examen Final
+    - [x] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
+    - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
+    - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
+  - [x] [Examen del Segundo Parcial](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenParcial2/README.md)
+  - [x] Revisión del Examen del Segundo Parcial
+- [x] [Examen Final](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenFinal/README.md)
 - [ ] Revisión del Examen Final
 
 Con todo esto, [a día de hoy deberíamos saber](aDiaDeHoy.md)...
