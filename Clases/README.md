@@ -19,7 +19,7 @@
     - [x] [Taller: Casos Reales (evaluación contínua)](Parcial1/2-MONGODB/8-taller-casos-reales)
   - [x] [Examen del Primer Parcial](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenParcial1/README.md)
   - [x] Revisión del Examen del Primer Parcial
-- [ ] Segundo Parcial
+- [x] Segundo Parcial
   
   - [x] BD de Grafos (Neo4j)
     
@@ -39,8 +39,8 @@
     - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
     - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
   - [x] [Examen del Segundo Parcial](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenParcial2/README.md)
-  - [ ] Revisión del Examen del Segundo Parcial
-- [ ] Examen Final
+  - [x] Revisión del Examen del Segundo Parcial
+- [x] [Examen Final](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenFinal/README.md)
 - [ ] Revisión del Examen Final
 
 Con todo esto, [a día de hoy deberíamos saber](aDiaDeHoy.md)...
