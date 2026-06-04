@@ -1,47 +1,46 @@
-# Clases
-
 - [x] **[Introducción](introduccion.md)**
-- [ ] Primer Parcial
+- [x] Primer Parcial
+  
   - [x] Introducción a NoSQL
     
     - [x] [Teoría y repaso](Parcial1/1-Introducción-NoSQL/1-teoria)
     - [x] [Tipos de NoSQL](Parcial1/1-Introducción-NoSQL/2-tipos-nosql)
-    - [x] [ Taller guiado de Elección de BD según problemas](Parcial1/1-Introducción-NoSQL/3-taller-guiado)
+    - [x] [Taller guiado de Elección de BD según problemas](Parcial1/1-Introducción-NoSQL/3-taller-guiado)
     - [x] [Práctica con GitHub (evaluación contínua)](Parcial1/1-Introducción-NoSQL/4-practica)
-  - [ ] BD Documentales (MongoDB)
+  - [x] BD Documentales (MongoDB)
     
-    - [ ] Teoría básica
-    - [ ] Práctica Básica: herramientas
-    - [ ] Práctica Intermedia: CRUD
-    - [ ] Práctica Intermedia: Operadores
-    - [ ] Práctica Avanzada
-    - [ ] Práctica Avanzada
-    - [ ] Teoría: Optimización y escalabilidad
-    - [ ] Taller: Casos Reales (evaluación contínua)
-  - [ ] Examen del Primer Parcial
-  - [ ] Revisión del Examen del Primer Parcial
-- [ ] Segundo Parcial
-  - [ ] BD de Grafos (Neo4j)
+    - [x] [Teoría básica](Parcial1/2-MONGODB/1-teoria)
+    - [x] [Práctica Básica: Diseño de esquemas](Parcial1/2-MONGODB/2-diseno-esquemas)
+    - [x] [Práctica Intermedia: CRUD](Parcial1/2-MONGODB/3-CRUD-operadores)
+    - [x] [Práctica Intermedia: Índices y Rendimiento](Parcial1/2-MONGODB/4-indices-rendimiento)
+    - [x] [Práctica Avanzada: Aggregation Framework](Parcial1/2-MONGODB/5-aggregation-framework)
+    - [x] [Práctica Avanzada: Modelado Avanzado y Patrones de Diseño](Parcial1/2-MONGODB/6-modelado-avanzado)
+    - [x] [Teoría: Seguridad, Validación y Control de Acceso en MongoDB](Parcial1/2-MONGODB/7-seguridad-control)
+    - [x] [Taller: Casos Reales (evaluación contínua)](Parcial1/2-MONGODB/8-taller-casos-reales)
+  - [x] [Examen del Primer Parcial](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenParcial1/README.md)
+  - [x] Revisión del Examen del Primer Parcial
+- [x] Segundo Parcial
+  
+  - [x] BD de Grafos (Neo4j)
     
-    - [ ] Teoría básica
-    - [ ] Práctica Básica: herramientas
-    - [ ] Práctica Intermedia: Cypher
-    - [ ] Práctica Intermedia: Relaciones y consultas
-    - [ ] Práctica Intermedia: Modelado de grafos
-    - [ ] Práctica Intermedia: Casos Reales
-    - [ ] Práctica Intermedia: Paths
-    - [ ] Taller:  (evaluación contínua)
-  - [ ] BD Vectoriales
+    - [x] [Introducción y entorno](Parcial2/3-Neo4J/1-teoria)
+    - [x] [Cypher básico y creación de datos](Parcial2/3-Neo4J/2-cypher-basico)
+    - [x] [Cypher Intermedio](Parcial2/3-Neo4J/3-cypher-intermedio)
+    - [x] [Relaciones y patrones](Parcial2/3-Neo4J/4-relaciones-patrones)
+    - [x] [Modelado de grafos](Parcial2/3-Neo4J/5-modelado)
+    - [x] [Paths y recorridos](Parcial2/3-Neo4J/6-paths)
+    - [x] [Análisis de grafos y lectura de paths](Parcial2/3-Neo4J/7-casos-reales)
+    - [x] [Casos reales y Taller (evaluación continua)](Parcial2/3-Neo4J/8-taller)
+  - [x] BD Vectoriales
     
-    - [ ] Teoría básica
-    - [ ] Práctica Básica: embeddings
-    - [ ] Práctica Intermedia: Uso local
-    - [ ] Práctica Intermedia: Búsqueda semántica
-    - [ ] Práctica Intermedia: Integración
-    - [ ] Taller:  (evaluación contínua)
-  - [ ] Examen del Segundo Parcial
-  - [ ] Revisión del Examen del Segundo Parcial
-- [ ] Examen Final
+    - [x] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
+    - [x] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/2-embeddings)
+    - [x] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
+    - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
+    - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
+  - [x] [Examen del Segundo Parcial](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenParcial2/README.md)
+  - [x] Revisión del Examen del Segundo Parcial
+- [x] [Examen Final](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenFinal/README.md)
 - [ ] Revisión del Examen Final
 
 Con todo esto, [a día de hoy deberíamos saber](aDiaDeHoy.md)...

@@ -1,0 +1,13 @@
+{
+    "cliente": {
+      "nombre": "Helena García",
+      "ciudad": "Madrid"
+    },
+    "fecha": "2026-02-12",
+    "productos": [
+        { "nombre": "Mouse", "precio": 25 },
+        { "nombre": "Laptop", "precio": 900 },
+        { "nombre": "WebCam", "precio": 50 }
+    ],
+    "total": 975
+}  

@@ -1,0 +1,13 @@
+{
+    "cliente": {
+      "nombre": "Mario Gómez",
+      "ciudad": "Santander"
+    },
+    "fecha": "2026-02-12",
+    "productos": [      
+      { "nombre": "Impresora", "precio": 180 },
+      { "nombre": "Monitor", "precio": 300 },
+      { "nombre": "WebCam", "precio": 50 }
+    ],
+    "total": 530
+}  
