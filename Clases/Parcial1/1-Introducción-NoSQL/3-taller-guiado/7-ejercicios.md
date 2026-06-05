@@ -4,6 +4,7 @@
 
 Una universidad necesita gestionar matrículas, asignaturas, profesores y actas de notas.
 Se requiere asegurar consistencia fuerte en las calificaciones y transacciones seguras durante los periodos de matrícula.
+// Es un tipo de bases relacional porque tiene tablas conectadas y no tiene contradicciones.
 
 ### Ejercicio 2
 
