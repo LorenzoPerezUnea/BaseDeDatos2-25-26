@@ -9,7 +9,7 @@ Para trabajar en clase es recomendable levantar MongoDB y una interfaz visual co
 3. Ejecutar:
    docker compose up -d --build
 4. Acceder a:
-   [http://localhost:8081](http://localhost:8081)
+   [http://localhost:8091](http://localhost:8091)
 
 Esto permite:
 
